@@ -1,0 +1,1640 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="M. LaLiga">
+    <display-name lang="es">M. LaLiga</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. LaLiga 1">
+    <display-name lang="es">M. LaLiga 1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. LaLiga 2">
+    <display-name lang="es">M. LaLiga 2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. LaLiga 3">
+    <display-name lang="es">M. LaLiga 3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. LaLiga 4">
+    <display-name lang="es">M. LaLiga 4</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. LaLiga 5">
+    <display-name lang="es">M. LaLiga 5</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LALIGATV BAR">
+    <display-name lang="es">LALIGATV BAR</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LALIGATVBAR1">
+    <display-name lang="es">LALIGATVBAR1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LALIGATVBAR2">
+    <display-name lang="es">LALIGATVBAR2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <programme start="20191104001500 +0100" stop="20191104002500 +0100" channel="M. LaLiga">
+    <title lang="es">Resúmenes LaLiga SmartBank (T19/20): Elche - Mirandés</title>
+    <sub-title lang="es">Elche - Mirandés</sub-title>
+    <desc lang="es">
+Argumento: El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3780186" />
+  </programme>
+  <programme start="20191104002500 +0100" stop="20191104004000 +0100" channel="M. LaLiga">
+    <title lang="es">Resúmenes LaLiga Santander (T19/20): Granada - Real Sociedad</title>
+    <sub-title lang="es">Granada - Real Sociedad</sub-title>
+    <desc lang="es">
+Argumento: El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772591" />
+  </programme>
+  <programme start="20191104004000 +0100" stop="20191104023000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Cádiz-Sporting</title>
+    <sub-title lang="es">Cádiz-Sporting</sub-title>
+    <desc lang="es">
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776448" />
+  </programme>
+  <programme start="20191104023000 +0100" stop="20191104033000 +0100" channel="M. LaLiga">
+    <title lang="es">Resumen LaLiga (T19/20): Jornada 12</title>
+    <sub-title lang="es">Jornada 12</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3758101" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191104033000 +0100" stop="20191104053000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Tenerife-Huesca</title>
+    <sub-title lang="es">Tenerife-Huesca</sub-title>
+    <desc lang="es">☠☠☠ 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776465" />
+    <star-rating>
+      <value>☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191104053000 +0100" stop="20191104063000 +0100" channel="M. LaLiga">
+    <title lang="es">Resumen LaLiga SmartBank (T19/20): Jornada 14</title>
+    <sub-title lang="es">Jornada 14</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada en LaLiga SmartBank 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755275" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191104063000 +0100" stop="20191104082000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Celta-Getafe</title>
+    <sub-title lang="es">Celta-Getafe</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: Un Celta de Vigo que ha caído a puestos de descenso recibe a un Getafe que busca un triunfo para acercarse a los puestos de competición europea. Los gallegos solo han conseguido ganar esta temporada en Balaídos y esperan repetir ante un rival, el Getafe, que no se muestra tan efectivo fuera de casa ya que solo ha conseguido una victoria a domicilio esta temporada 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772307" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191104082000 +0100" stop="20191104085000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Cities (T17/18): Barcelona</title>
+    <sub-title lang="es">Barcelona</sub-title>
+    <desc lang="es">(+TP) ☠☠☠ 2018 España 
+Argumento: Espacio que presenta las ciudades de los equipos que disputan LaLiga Santander 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1018167V1537483" />
+    <country>España</country>
+    <star-rating>
+      <value>☠☠☠</value>
+    </star-rating>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191104085000 +0100" stop="20191104104000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Alcorcón-Racing</title>
+    <sub-title lang="es">Alcorcón-Racing</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: Un Alcorcón que es duodécimo recibe a un Racing que es penúltimo. El equipo madrileño está a dos puntos de los puestos de playoff de ascenso y solo ha conseguido sumar cuatro puntos en los partidos que ha jugado como local. Los santanderinos tienen a dos puntos los puestos fuera del descenso y todavía no conocen el triunfo a domicilio 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776446" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191104104000 +0100" stop="20191104114000 +0100" channel="M. LaLiga">
+    <title lang="es">Resumen LaLiga (T19/20): Jornada 12</title>
+    <sub-title lang="es">Jornada 12</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3758101" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191104114000 +0100" stop="20191104133000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Espanyol-Valencia</title>
+    <sub-title lang="es">Espanyol-Valencia</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Espanyol recibe en el RCDE Stadium al Valencia durante la duodécima jornada de la Liga Santander. Los de Machín, que vienen de caer ante el Athletic Club tras un triunfo en Europa y otro en liga, buscan sus primeros puntos en Cornellà después de cinco derrotas consecutivas. El Valencia llega después de empatar en Mestalla ante el Sevilla. Los de Celades buscan una victoria después de tres jornadas sin ganar 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772309" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191104133000 +0100" stop="20191104140000 +0100" channel="M. LaLiga">
+    <title lang="es">90 años de LaLiga: Jorge Valdano</title>
+    <sub-title lang="es">Jorge Valdano</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: En 1929 arrancó un campeonato que se convirtió con el tiempo en el mayor entrentenimiento de los aficionados españoles al fútbol. Este espacio cuenta alguna de las historias más destacadas ocurridas en LaLiga a lo largo de sus 90 años de vida 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3767083" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191104140000 +0100" stop="20191104143000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga News 1 (T19/20): 04/11/2019</title>
+    <sub-title lang="es">04/11/2019</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Un repaso a toda la actualidad que genera LaLiga, la competición más importante del fútbol español. Noticias, entrevistas, reportajes y las imágenes más espectaculares componen este cóctel pensado para los amantes de la Primera y la Segunda División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756797" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191104143000 +0100" stop="20191104144500 +0100" channel="M. LaLiga">
+    <title lang="es">Resúmenes LaLiga Santander (T19/20): Granada - Real Sociedad</title>
+    <sub-title lang="es">Granada - Real Sociedad</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: La Real Sociedad se lleva la victoria de Los Cármenes para ponerse en lo alto de la clasificación empatado a puntos con Barcelona y Real Madrid. Portu abrió en el marcador en los primeros minutos de partido, empató Vadillo con un gol de falta para el Granada y otra vez apareció Portu para poner el definitivo 2-1 en el marcador 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772591" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191104145000 +0100" stop="20191104150000 +0100" channel="M. LaLiga">
+    <title lang="es">Resúmenes LaLiga SmartBank (T19/20): Tenerife - Huesca</title>
+    <sub-title lang="es">Tenerife - Huesca</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: Empate a nada entre Tenerife y Huesca, que se repartieron puntos en el Heliodoro Rodríguez López. El Tenerife, que jugó con uno menos tras la expulsión de Mazán en el min.78, cosecha tres empates consecutivos y seis jornadas sin conocer la victoria 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3780178" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191104150000 +0100" stop="20191104160500 +0100" channel="M. LaLiga">
+    <title lang="es">El Partidazo de Movistar (T19/20)</title>
+    <desc lang="es">(+TP) ️☠☠ 2019 España Pres: Juanma Castaño. 
+Argumento: Cada domingo, Juanma Castaño lidera el programa del análisis y del debate. Aquí no se nos escapa ningún detalle de la jornada. Con la ayuda de grandes nombres como Santi Cañizares, Álvaro Benito o Roberto Palomar repasamos todo lo ocurrido en Primera, Segunda y las principales ligas internacionales. Siempre con el ojo crítico preparado para el análisis exhaustivo y la crítica constructiva de cada uno de los detalles de los encuentros que más han dado que hablar durante el fin de semana 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3759900" />
+    <country>España</country>
+    <star-rating>
+      <value>️☠☠</value>
+    </star-rating>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191104160500 +0100" stop="20191104180000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Granada-Real Sociedad</title>
+    <sub-title lang="es">Granada-Real Sociedad</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El equipo de Diego Martínez está siendo la gran revelación de la temporada, pero los donostiarras también aspiran a ese objetivo. El fútbol ordenado y riguroso de los nazaríes ante la creatividad y el fútbol ofensivo de los txuri urdin 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772311" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191104180000 +0100" stop="20191104183000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga News 2 (T19/20): 04/11/2019</title>
+    <sub-title lang="es">04/11/2019</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: El programa repasa toda la actualidad que genera LaLiga, la competición más importante del fútbol español. Noticias, entrevistas, reportajes y las imágenes más espectaculares componen este cóctel pensado para los amantes de la Primera y la Segunda División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756797" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191104183000 +0100" stop="20191104190000 +0100" channel="M. LaLiga">
+    <title lang="es">90 años de LaLiga: Miquel Soler</title>
+    <sub-title lang="es">Miquel Soler</sub-title>
+    <desc lang="es">(+TP) ☠☠☠ 2019 España 
+Argumento: En 1929 arrancó un campeonato que se convirtió con el tiempo en el mayor entrentenimiento de los aficionados españoles al fútbol. Este espacio cuenta alguna de las historias más destacadas ocurridas en LaLiga a lo largo de sus 90 años de vida 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3767083" />
+    <country>España</country>
+    <star-rating>
+      <value>☠☠☠</value>
+    </star-rating>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191104190000 +0100" stop="20191104210000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Cádiz-Sporting</title>
+    <sub-title lang="es">Cádiz-Sporting</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: El Cádiz, líder en solitario de la Segunda División, comienza la jornada con ocho puntos de ventaja sobre el segundo clasificado. La semana pasada perdió en Albacete y rompió una racha de cinco partidos consecutivos. Los de Álvaro Cervera contarán con las bajas por lesión de Juan Cala, Yann Bodiger y David Querol. Los asturianos llevan dos victorias consecutivas sin recibir ningún gol 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776448" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191104210000 +0100" stop="20191104220000 +0100" channel="M. LaLiga">
+    <title lang="es">Resumen LaLiga SmartBank (T19/20): Jornada 14</title>
+    <sub-title lang="es">Jornada 14</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada en LaLiga SmartBank 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755275" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191104220000 +0100" stop="20191105000000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Leganés-Eibar</title>
+    <sub-title lang="es">Leganés-Eibar</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Leganés ocupa la última posición liguera, con solo un triunfo en el casillero. Los pepineros necesitan hacerse fuertes en Butarque; el Eibar, en cambio, acude al estadio madrileño dispuesto a abrir brecha con un rival directo 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772313" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191105000000 +0100" stop="20191105015000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Elche-Mirandés</title>
+    <sub-title lang="es">Elche-Mirandés</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776450" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191105015000 +0100" stop="20191105025000 +0100" channel="M. LaLiga">
+    <title lang="es">Resumen LaLiga (T19/20): Jornada 12</title>
+    <sub-title lang="es">Jornada 12</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3758101" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191105025000 +0100" stop="20191105044000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Levante-Barcelona</title>
+    <sub-title lang="es">Levante-Barcelona</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El regreso de Leo Messi tras lesión coincide con el despegue del Barcelona. Los de Ernesto Valverde encadenan cinco triunfos consecutivos, dos de ellos a domicilio. El Levante se reecontró el miércoles con la victoria al vencer en Anoeta 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772315" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191105044000 +0100" stop="20191105063000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Osasuna-Alavés</title>
+    <sub-title lang="es">Osasuna-Alavés</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Sadar es un fortín del que ningún visitante ha salido hasta el momento con la victoria en el zurrón. El Alavés solo ha sumado un punto en cinco desplazamientos previos, pero se pondrá por delante de Osasuna en la tabla si logra el triunfo 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772317" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191105063000 +0100" stop="20191105082000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Real Madrid-Betis</title>
+    <sub-title lang="es">Real Madrid-Betis</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Real Madrid pretende perpetuar las buenas sensaciones que dejó en su goleada ante el Leganés. Los blancos reciben a un Betis que respira algo más tranquilo tras superar al Celta el pasado miércoles 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772319" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191105082000 +0100" stop="20191105085000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga ZAP (T19/20) 17/10/2019</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755307" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191105085000 +0100" stop="20191105104000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Extremadura-Girona</title>
+    <sub-title lang="es">Extremadura-Girona</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776452" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191105104000 +0100" stop="20191105114000 +0100" channel="M. LaLiga">
+    <title lang="es">Resumen LaLiga SmartBank (T19/20): Jornada 14</title>
+    <sub-title lang="es">Jornada 14</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada en LaLiga SmartBank 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755275" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191105114000 +0100" stop="20191105133000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Sevilla-At. Madrid</title>
+    <sub-title lang="es">Sevilla-At. Madrid</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: Sevilla y Atlético de Madrid se miden en el estadio Sánchez Pizjuán en la duodécima jornada de la Liga Santander. Ambos equipos llegan empatados a puntos en la tercera plaza a dos puntos del líder Barcelona. El Sevilla busca su cuarta victoria consecutiva en liga como local. El Atlético de Simeone llega invicto en las siete últimas jornadas aunque de los siete encuentros solo dos acabaron con triunfo rojiblanco 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772321" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191105133000 +0100" stop="20191105140000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Cities (T17/18): Real Madrid</title>
+    <sub-title lang="es">Real Madrid</sub-title>
+    <desc lang="es">(+TP) ☠☠☠ 2018 España 
+Argumento: Espacio que presenta las ciudades de los equipos que disputan LaLiga Santander 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1010393V1511671" />
+    <country>España</country>
+    <star-rating>
+      <value>☠☠☠</value>
+    </star-rating>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191105140000 +0100" stop="20191105143000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga News 1 (T19/20): 05/11/2019</title>
+    <sub-title lang="es">05/11/2019</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Un repaso a toda la actualidad que genera LaLiga, la competición más importante del fútbol español. Noticias, entrevistas, reportajes y las imágenes más espectaculares componen este cóctel pensado para los amantes de la Primera y la Segunda División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756797" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191105143000 +0100" stop="20191105150000 +0100" channel="M. LaLiga">
+    <title lang="es">90 años de LaLiga: Larrañaga y Górriz</title>
+    <sub-title lang="es">Larrañaga y Górriz</sub-title>
+    <desc lang="es">(+TP) ☠ 2019 España 
+Argumento: En 1929 arrancó un campeonato que se convirtió con el tiempo en el mayor entrentenimiento de los aficionados españoles al fútbol. Este espacio cuenta alguna de las historias más destacadas ocurridas en LaLiga a lo largo de sus 90 años de vida 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3767083" />
+    <country>España</country>
+    <star-rating>
+      <value>☠</value>
+    </star-rating>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191105150000 +0100" stop="20191105170000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Valladolid-Mallorca</title>
+    <sub-title lang="es">Valladolid-Mallorca</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Valladolid recibe al Mallorca con dos días más de descanso en las piernas que su rival. Los pucelanos todavía no conocen la derrota ante la afición de Zorrilla; los baleares, por contra, han perdido en todos sus desplazamientos 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772323" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191105170000 +0100" stop="20191105180000 +0100" channel="M. LaLiga">
+    <title lang="es">Resumen LaLiga (T19/20): Jornada 12</title>
+    <sub-title lang="es">Jornada 12</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3758101" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191105180000 +0100" stop="20191105183000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga News 2 (T19/20): 05/11/2019</title>
+    <sub-title lang="es">05/11/2019</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: El programa repasa toda la actualidad que genera LaLiga, la competición más importante del fútbol español. Noticias, entrevistas, reportajes y las imágenes más espectaculares componen este cóctel pensado para los amantes de la Primera y la Segunda División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756797" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191105183000 +0100" stop="20191105190000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191105190000 +0100" stop="20191105210000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Fuenlabrada-Deportivo</title>
+    <sub-title lang="es">Fuenlabrada-Deportivo</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: En polos opuestos se miden madrileños y gallegos en el estadio Fernando Torres. El Fuenlabrada disfruta de su debut en el fútbol profesional en la tercera plaza, mientras que el Dépor es colista de la categoría de plata. El reto para el equipo dirigido por Mere es volver a ganar en casa tras perder la imbatibilidad de más de un año como locales en la última cita ante el Albacete. Para el Dépor, la esperanza es seguir progresando tras una buena segunda parte en la visita al Racing de Santander, que sirvió para sumar un punto 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776454" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191105210000 +0100" stop="20191105223000 +0100" channel="M. LaLiga">
+    <title lang="es">El día después (T19/20)</title>
+    <desc lang="es">(+TP) ☠☠☠☠☠ 2019 España Pres: Carlos Martínez. 
+Argumento: El Día Después continúa una temporada más repasando la jornada desde el lado más amable, divertido y futbolero, como lleva haciendo desde hace casi tres décadas. Un espacio conducido por Carlos Martínez en el que no falta lo mejor del fútbol internacional con Julio Maldonado 'Maldini' y el análisis del fin de semana en Primera División de la mano de dos reconocidos exjugadores como Gerard López. Mónica Marchante nos indica las preguntas que hay que hacer, además, el programa sigue descubriendo a los héroes anónimos del fútbol modesto, un 'cocktail' en el que no falta el humor y las imágenes más divertidas del fin de semana recogidas en 'Lo que el ojo no ve', que viene de la mano de Raúl Pérez 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3671125" />
+    <country>España</country>
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191105223000 +0100" stop="20191106003000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Celta-Getafe</title>
+    <sub-title lang="es">Celta-Getafe</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: Un Celta de Vigo que ha caído a puestos de descenso recibe a un Getafe que busca un triunfo para acercarse a los puestos de competición europea. Los gallegos solo han conseguido ganar esta temporada en Balaídos y esperan repetir ante un rival, el Getafe, que no se muestra tan efectivo fuera de casa ya que solo ha conseguido una victoria a domicilio esta temporada 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772307" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191106003000 +0100" stop="20191106022000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Lugo-Rayo</title>
+    <sub-title lang="es">Lugo-Rayo</sub-title>
+    <desc lang="es">☠☠☠ 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776456" />
+    <star-rating>
+      <value>☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191106022000 +0100" stop="20191106025000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191106025000 +0100" stop="20191106044000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Espanyol-Valencia</title>
+    <sub-title lang="es">Espanyol-Valencia</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Espanyol recibe en el RCDE Stadium al Valencia durante la duodécima jornada de la Liga Santander. Los de Machín, que vienen de caer ante el Athletic Club tras un triunfo en Europa y otro en liga, buscan sus primeros puntos en Cornellà después de cinco derrotas consecutivas. El Valencia llega después de empatar en Mestalla ante el Sevilla. Los de Celades buscan una victoria después de tres jornadas sin ganar 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772309" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191106044000 +0100" stop="20191106063000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Granada-Real Sociedad</title>
+    <sub-title lang="es">Granada-Real Sociedad</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El equipo de Diego Martínez está siendo la gran revelación de la temporada, pero los donostiarras también aspiran a ese objetivo. El fútbol ordenado y riguroso de los nazaríes ante la creatividad y el fútbol ofensivo de los txuri urdin 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772311" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191106063000 +0100" stop="20191106082000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Leganés-Eibar</title>
+    <sub-title lang="es">Leganés-Eibar</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Leganés ocupa la última posición liguera, con solo un triunfo en el casillero. Los pepineros necesitan hacerse fuertes en Butarque; el Eibar, en cambio, acude al estadio madrileño dispuesto a abrir brecha con un rival directo 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772313" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191106082000 +0100" stop="20191106085000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191106085000 +0100" stop="20191106104000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Numancia-Albacete</title>
+    <sub-title lang="es">Numancia-Albacete</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776458" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191106104000 +0100" stop="20191106123000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Levante-Barcelona</title>
+    <sub-title lang="es">Levante-Barcelona</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El regreso de Leo Messi tras lesión coincide con el despegue del Barcelona. Los de Ernesto Valverde encadenan cinco triunfos consecutivos, dos de ellos a domicilio. El Levante se reecontró el miércoles con la victoria al vencer en Anoeta 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772315" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191106123000 +0100" stop="20191106140000 +0100" channel="M. LaLiga">
+    <title lang="es">El día después (T19/20)</title>
+    <desc lang="es">(+TP) ☠☠☠☠☠ 2019 España Pres: Carlos Martínez. 
+Argumento: El Día Después continúa una temporada más repasando la jornada desde el lado más amable, divertido y futbolero, como lleva haciendo desde hace casi tres décadas. Un espacio conducido por Carlos Martínez en el que no falta lo mejor del fútbol internacional con Julio Maldonado 'Maldini' y el análisis del fin de semana en Primera División de la mano de dos reconocidos exjugadores como Gerard López. Mónica Marchante nos indica las preguntas que hay que hacer, además, el programa sigue descubriendo a los héroes anónimos del fútbol modesto, un 'cocktail' en el que no falta el humor y las imágenes más divertidas del fin de semana recogidas en 'Lo que el ojo no ve', que viene de la mano de Raúl Pérez 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3671125" />
+    <country>España</country>
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191106140000 +0100" stop="20191106143000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga News 1 (T19/20): 06/11/2019</title>
+    <sub-title lang="es">06/11/2019</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Un repaso a toda la actualidad que genera LaLiga, la competición más importante del fútbol español. Noticias, entrevistas, reportajes y las imágenes más espectaculares componen este cóctel pensado para los amantes de la Primera y la Segunda División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756797" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191106143000 +0100" stop="20191106150000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191106150000 +0100" stop="20191106170000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Osasuna-Alavés</title>
+    <sub-title lang="es">Osasuna-Alavés</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Sadar es un fortín del que ningún visitante ha salido hasta el momento con la victoria en el zurrón. El Alavés solo ha sumado un punto en cinco desplazamientos previos, pero se pondrá por delante de Osasuna en la tabla si logra el triunfo 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772317" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191106170000 +0100" stop="20191106180000 +0100" channel="M. LaLiga">
+    <title lang="es">Resumen LaLiga SmartBank (T19/20): Jornada 14</title>
+    <sub-title lang="es">Jornada 14</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada en LaLiga SmartBank 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755275" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191106180000 +0100" stop="20191106183000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga News 2 (T19/20): 06/11/2019</title>
+    <sub-title lang="es">06/11/2019</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: El programa repasa toda la actualidad que genera LaLiga, la competición más importante del fútbol español. Noticias, entrevistas, reportajes y las imágenes más espectaculares componen este cóctel pensado para los amantes de la Primera y la Segunda División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756797" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191106183000 +0100" stop="20191106190000 +0100" channel="M. LaLiga">
+    <title lang="es">Crónicas de LaLiga (T19/20): Jornada 12</title>
+    <sub-title lang="es">Jornada 12</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: En los 90 minutos que dura un partido de LaLiga ocurren muchas cosas, muchas historias paralelas que pueden inclinar el resultado final del encuentro. Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios de Primera División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755303" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191106190000 +0100" stop="20191106210000 +0100" channel="M. LaLiga">
+    <title lang="es">Resúmenes LaLiga SmartBank (T19/20): Ponferradina - Málaga</title>
+    <sub-title lang="es">Ponferradina - Málaga</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: Un solitario gol del brasileño Yuri en la recta final del partido volvió a darle el triunfo a la Ponferradina en El Toralín. Segunda victoria consecutiva para la Deportiva. El Málaga puso fin a una racha de dos triunfos 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3780170" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191106210000 +0100" stop="20191106220000 +0100" channel="M. LaLiga">
+    <title lang="es">Resumen LaLiga (T19/20): Jornada 12</title>
+    <sub-title lang="es">Jornada 12</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3758101" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191106220000 +0100" stop="20191106235500 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Real Madrid-Betis</title>
+    <sub-title lang="es">Real Madrid-Betis</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Real Madrid pretende perpetuar las buenas sensaciones que dejó en su goleada ante el Leganés. Los blancos reciben a un Betis que respira algo más tranquilo tras superar al Celta el pasado miércoles 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772319" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191106235500 +0100" stop="20191107014500 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Real Oviedo-Almería</title>
+    <sub-title lang="es">Real Oviedo-Almería</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: A pesar de la derrota de la semana pasada en Málaga, el Oviedo está en una buena dinámica y ya no ocupa puestos de descenso. El Almería llega al Carlos Tartiere en segunda posición 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776461" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191107014500 +0100" stop="20191107025000 +0100" channel="M. LaLiga">
+    <title lang="es">El Partidazo de Movistar (T19/20)</title>
+    <desc lang="es">(+TP) ️☠☠ 2019 España Pres: Juanma Castaño. 
+Argumento: Cada domingo, Juanma Castaño lidera el programa del análisis y del debate. Aquí no se nos escapa ningún detalle de la jornada. Con la ayuda de grandes nombres como Santi Cañizares, Álvaro Benito o Roberto Palomar repasamos todo lo ocurrido en Primera, Segunda y las principales ligas internacionales. Siempre con el ojo crítico preparado para el análisis exhaustivo y la crítica constructiva de cada uno de los detalles de los encuentros que más han dado que hablar durante el fin de semana 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3759900" />
+    <country>España</country>
+    <star-rating>
+      <value>️☠☠</value>
+    </star-rating>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107025000 +0100" stop="20191107044000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Sevilla-At. Madrid</title>
+    <sub-title lang="es">Sevilla-At. Madrid</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: Sevilla y Atlético de Madrid se miden en el estadio Sánchez Pizjuán en la duodécima jornada de la Liga Santander. Ambos equipos llegan empatados a puntos en la tercera plaza a dos puntos del líder Barcelona. El Sevilla busca su cuarta victoria consecutiva en liga como local. El Atlético de Simeone llega invicto en las siete últimas jornadas aunque de los siete encuentros solo dos acabaron con triunfo rojiblanco 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772321" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191107044000 +0100" stop="20191107063000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Valladolid-Mallorca</title>
+    <sub-title lang="es">Valladolid-Mallorca</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Valladolid recibe al Mallorca con dos días más de descanso en las piernas que su rival. Los pucelanos todavía no conocen la derrota ante la afición de Zorrilla; los baleares, por contra, han perdido en todos sus desplazamientos 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772323" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191107063000 +0100" stop="20191107082000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Espanyol-Valencia</title>
+    <sub-title lang="es">Espanyol-Valencia</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Espanyol recibe en el RCDE Stadium al Valencia durante la duodécima jornada de la Liga Santander. Los de Machín, que vienen de caer ante el Athletic Club tras un triunfo en Europa y otro en liga, buscan sus primeros puntos en Cornellà después de cinco derrotas consecutivas. El Valencia llega después de empatar en Mestalla ante el Sevilla. Los de Celades buscan una victoria después de tres jornadas sin ganar 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772309" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191107082000 +0100" stop="20191107085000 +0100" channel="M. LaLiga">
+    <title lang="es">Crónicas de LaLiga (T19/20): Jornada 12</title>
+    <sub-title lang="es">Jornada 12</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: En los 90 minutos que dura un partido de LaLiga ocurren muchas cosas, muchas historias paralelas que pueden inclinar el resultado final del encuentro. Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios de Primera División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755303" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107085000 +0100" stop="20191107104000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Tenerife-Huesca</title>
+    <sub-title lang="es">Tenerife-Huesca</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776465" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191107104000 +0100" stop="20191107111000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107111000 +0100" stop="20191107114000 +0100" channel="M. LaLiga">
+    <title lang="es">Crónicas de LaLiga (T19/20): Jornada 12</title>
+    <sub-title lang="es">Jornada 12</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: En los 90 minutos que dura un partido de LaLiga ocurren muchas cosas, muchas historias paralelas que pueden inclinar el resultado final del encuentro. Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios de Primera División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755303" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107114000 +0100" stop="20191107133000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Granada-Real Sociedad</title>
+    <sub-title lang="es">Granada-Real Sociedad</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El equipo de Diego Martínez está siendo la gran revelación de la temporada, pero los donostiarras también aspiran a ese objetivo. El fútbol ordenado y riguroso de los nazaríes ante la creatividad y el fútbol ofensivo de los txuri urdin 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772311" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191107133000 +0100" stop="20191107140000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107140000 +0100" stop="20191107143000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga News 1 (T19/20): 07/11/2019</title>
+    <sub-title lang="es">07/11/2019</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Un repaso a toda la actualidad que genera LaLiga, la competición más importante del fútbol español. Noticias, entrevistas, reportajes y las imágenes más espectaculares componen este cóctel pensado para los amantes de la Primera y la Segunda División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756797" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107143000 +0100" stop="20191107150000 +0100" channel="M. LaLiga">
+    <title lang="es">Crónicas de LaLiga (T19/20): Jornada 12</title>
+    <sub-title lang="es">Jornada 12</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: En los 90 minutos que dura un partido de LaLiga ocurren muchas cosas, muchas historias paralelas que pueden inclinar el resultado final del encuentro. Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios de Primera División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755303" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107150000 +0100" stop="20191107170000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Leganés-Eibar</title>
+    <sub-title lang="es">Leganés-Eibar</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Leganés ocupa la última posición liguera, con solo un triunfo en el casillero. Los pepineros necesitan hacerse fuertes en Butarque; el Eibar, en cambio, acude al estadio madrileño dispuesto a abrir brecha con un rival directo 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772313" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191107170000 +0100" stop="20191107173000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107173000 +0100" stop="20191107180000 +0100" channel="M. LaLiga">
+    <title lang="es">90 años de LaLiga: Miquel Soler</title>
+    <sub-title lang="es">Miquel Soler</sub-title>
+    <desc lang="es">(+TP) ☠☠☠ 2019 España 
+Argumento: En 1929 arrancó un campeonato que se convirtió con el tiempo en el mayor entrentenimiento de los aficionados españoles al fútbol. Este espacio cuenta alguna de las historias más destacadas ocurridas en LaLiga a lo largo de sus 90 años de vida 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3767083" />
+    <country>España</country>
+    <star-rating>
+      <value>☠☠☠</value>
+    </star-rating>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107180000 +0100" stop="20191107183000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga News 2 (T19/20): 07/11/2019</title>
+    <sub-title lang="es">07/11/2019</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: El programa repasa toda la actualidad que genera LaLiga, la competición más importante del fútbol español. Noticias, entrevistas, reportajes y las imágenes más espectaculares componen este cóctel pensado para los amantes de la Primera y la Segunda División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756797" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107183000 +0100" stop="20191107190000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Show (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La previa de cada jornada de LaLiga Santander y de la LaLiga SmartBank. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756802" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107190000 +0100" stop="20191107210000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Alcorcón-Racing</title>
+    <sub-title lang="es">Alcorcón-Racing</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: Un Alcorcón que es duodécimo recibe a un Racing que es penúltimo. El equipo madrileño está a dos puntos de los puestos de playoff de ascenso y solo ha conseguido sumar cuatro puntos en los partidos que ha jugado como local. Los santanderinos tienen a dos puntos los puestos fuera del descenso y todavía no conocen el triunfo a domicilio 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776446" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191107210000 +0100" stop="20191107213000 +0100" channel="M. LaLiga">
+    <title lang="es">Magazine SmartBank (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756830" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107213000 +0100" stop="20191107220000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Show (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La previa de cada jornada de LaLiga Santander y de la LaLiga SmartBank. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756802" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191107220000 +0100" stop="20191108000000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Levante-Barcelona</title>
+    <sub-title lang="es">Levante-Barcelona</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El regreso de Leo Messi tras lesión coincide con el despegue del Barcelona. Los de Ernesto Valverde encadenan cinco triunfos consecutivos, dos de ellos a domicilio. El Levante se reecontró el miércoles con la victoria al vencer en Anoeta 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772315" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191108000000 +0100" stop="20191108015000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Cádiz-Sporting</title>
+    <sub-title lang="es">Cádiz-Sporting</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: El Cádiz, líder en solitario de la Segunda División, comienza la jornada con ocho puntos de ventaja sobre el segundo clasificado. La semana pasada perdió en Albacete y rompió una racha de cinco partidos consecutivos. Los de Álvaro Cervera contarán con las bajas por lesión de Juan Cala, Yann Bodiger y David Querol. Los asturianos llevan dos victorias consecutivas sin recibir ningún gol 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776448" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191108015000 +0100" stop="20191108022000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga ZAP (T19/20) 25/10/2019</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755307" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108022000 +0100" stop="20191108025000 +0100" channel="M. LaLiga">
+    <title lang="es">Magazine SmartBank (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756830" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108025000 +0100" stop="20191108044000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Osasuna-Alavés</title>
+    <sub-title lang="es">Osasuna-Alavés</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Sadar es un fortín del que ningún visitante ha salido hasta el momento con la victoria en el zurrón. El Alavés solo ha sumado un punto en cinco desplazamientos previos, pero se pondrá por delante de Osasuna en la tabla si logra el triunfo 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772317" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191108044000 +0100" stop="20191108063000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Real Madrid-Betis</title>
+    <sub-title lang="es">Real Madrid-Betis</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Real Madrid pretende perpetuar las buenas sensaciones que dejó en su goleada ante el Leganés. Los blancos reciben a un Betis que respira algo más tranquilo tras superar al Celta el pasado miércoles 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772319" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191108063000 +0100" stop="20191108082000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Sevilla-At. Madrid</title>
+    <sub-title lang="es">Sevilla-At. Madrid</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: Sevilla y Atlético de Madrid se miden en el estadio Sánchez Pizjuán en la duodécima jornada de la Liga Santander. Ambos equipos llegan empatados a puntos en la tercera plaza a dos puntos del líder Barcelona. El Sevilla busca su cuarta victoria consecutiva en liga como local. El Atlético de Simeone llega invicto en las siete últimas jornadas aunque de los siete encuentros solo dos acabaron con triunfo rojiblanco 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772321" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191108082000 +0100" stop="20191108085000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Show (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La previa de cada jornada de LaLiga Santander y de la LaLiga SmartBank. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756802" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108085000 +0100" stop="20191108104000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Elche-Mirandés</title>
+    <sub-title lang="es">Elche-Mirandés</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776450" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191108104000 +0100" stop="20191108111000 +0100" channel="M. LaLiga">
+    <title lang="es">Magazine SmartBank (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756830" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108111000 +0100" stop="20191108114000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga ZAP (T19/20) 25/10/2019</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755307" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108114000 +0100" stop="20191108133000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Valladolid-Mallorca</title>
+    <sub-title lang="es">Valladolid-Mallorca</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: El Valladolid recibe al Mallorca con dos días más de descanso en las piernas que su rival. Los pucelanos todavía no conocen la derrota ante la afición de Zorrilla; los baleares, por contra, han perdido en todos sus desplazamientos 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772323" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191108133000 +0100" stop="20191108140000 +0100" channel="M. LaLiga">
+    <title lang="es">Magazine SmartBank (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756830" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108140000 +0100" stop="20191108143000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga News 1 (T19/20): 08/11/2019</title>
+    <sub-title lang="es">08/11/2019</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Un repaso a toda la actualidad que genera LaLiga, la competición más importante del fútbol español. Noticias, entrevistas, reportajes y las imágenes más espectaculares componen este cóctel pensado para los amantes de la Primera y la Segunda División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756797" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108143000 +0100" stop="20191108150000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Show (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La previa de cada jornada de LaLiga Santander y de la LaLiga SmartBank. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756802" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108150000 +0100" stop="20191108170000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Celta-Getafe</title>
+    <sub-title lang="es">Celta-Getafe</sub-title>
+    <desc lang="es">☠☠☠☠ 
+Argumento: Un Celta de Vigo que ha caído a puestos de descenso recibe a un Getafe que busca un triunfo para acercarse a los puestos de competición europea. Los gallegos solo han conseguido ganar esta temporada en Balaídos y esperan repetir ante un rival, el Getafe, que no se muestra tan efectivo fuera de casa ya que solo ha conseguido una victoria a domicilio esta temporada 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3772307" />
+    <star-rating>
+      <value>☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191108170000 +0100" stop="20191108173000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Show (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La previa de cada jornada de LaLiga Santander y de la LaLiga SmartBank. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756802" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108173000 +0100" stop="20191108180000 +0100" channel="M. LaLiga">
+    <title lang="es">Magazine SmartBank (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756830" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108180000 +0100" stop="20191108183000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga News 2 (T19/20): 08/11/2019</title>
+    <sub-title lang="es">08/11/2019</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: El programa repasa toda la actualidad que genera LaLiga, la competición más importante del fútbol español. Noticias, entrevistas, reportajes y las imágenes más espectaculares componen este cóctel pensado para los amantes de la Primera y la Segunda División 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756797" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108183000 +0100" stop="20191108190000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108190000 +0100" stop="20191108193000 +0100" channel="M. LaLiga">
+    <title lang="es">Magazine SmartBank (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756830" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108193000 +0100" stop="20191108210000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Show (T19/20)</title>
+  </programme>
+  <programme start="20191108210000 +0100" stop="20191108230000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Real Sociedad-Leganés</title>
+    <sub-title lang="es">Real Sociedad-Leganés</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776441" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191108230000 +0100" stop="20191108233000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Show (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La previa de cada jornada de LaLiga Santander y de la LaLiga SmartBank. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756802" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191108233000 +0100" stop="20191109000000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109000000 +0100" stop="20191109003000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga ZAP (T19/20) 25/10/2019</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755307" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109003000 +0100" stop="20191109004500 +0100" channel="M. LaLiga">
+    <title lang="es">Resúmenes LaLiga Santander (T19/20): Real Sociedad - Leganés</title>
+    <sub-title lang="es">Real Sociedad - Leganés</sub-title>
+    <desc lang="es">
+Argumento: El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3780781" />
+  </programme>
+  <programme start="20191109004500 +0100" stop="20191109005500 +0100" channel="M. LaLiga">
+    <title lang="es">Resúmenes LaLiga SmartBank (T19/20): Girona - Tenerife</title>
+    <sub-title lang="es">Girona - Tenerife</sub-title>
+    <desc lang="es">
+Argumento: El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3783829" />
+  </programme>
+  <programme start="20191109005500 +0100" stop="20191109012000 +0100" channel="M. LaLiga">
+    <title lang="es">Magazine SmartBank (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756830" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109012000 +0100" stop="20191109031000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Girona-Tenerife</title>
+    <sub-title lang="es">Girona-Tenerife</sub-title>
+    <desc lang="es">☠☠☠ 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3781398" />
+    <star-rating>
+      <value>☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191109031000 +0100" stop="20191109034000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109034000 +0100" stop="20191109041000 +0100" channel="M. LaLiga">
+    <title lang="es">Magazine SmartBank (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756830" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109041000 +0100" stop="20191109044000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Show (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La previa de cada jornada de LaLiga Santander y de la LaLiga SmartBank. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756802" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109044000 +0100" stop="20191109063000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Real Sociedad-Leganés</title>
+    <sub-title lang="es">Real Sociedad-Leganés</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776441" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191109063000 +0100" stop="20191109070000 +0100" channel="M. LaLiga">
+    <title lang="es">Magazine SmartBank (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756830" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109070000 +0100" stop="20191109090000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Girona-Tenerife</title>
+    <sub-title lang="es">Girona-Tenerife</sub-title>
+    <desc lang="es">☠☠☠ 
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3781398" />
+    <star-rating>
+      <value>☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191109090000 +0100" stop="20191109093000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Show (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La previa de cada jornada de LaLiga Santander y de la LaLiga SmartBank. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756802" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109093000 +0100" stop="20191109113000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Real Sociedad-Leganés</title>
+    <sub-title lang="es">Real Sociedad-Leganés</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776441" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191109113000 +0100" stop="20191109120000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga ZAP (T19/20) 25/10/2019</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3755307" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109120000 +0100" stop="20191109123000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109123000 +0100" stop="20191109130000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Show (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: La previa de cada jornada de LaLiga Santander y de la LaLiga SmartBank. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756802" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191109130000 +0100" stop="20191109160000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Alavés-Valladolid</title>
+    <sub-title lang="es">Alavés-Valladolid</sub-title>
+    <desc lang="es">
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776425" />
+  </programme>
+  <programme start="20191109160000 +0100" stop="20191109183000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Valencia-Granada</title>
+    <sub-title lang="es">Valencia-Granada</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776443" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191109183000 +0100" stop="20191109210000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Eibar-Real Madrid</title>
+    <sub-title lang="es">Eibar-Real Madrid</sub-title>
+    <desc lang="es">
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776435" />
+  </programme>
+  <programme start="20191109210000 +0100" stop="20191110004000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Barcelona-Celta</title>
+    <sub-title lang="es">Barcelona-Celta</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776431" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191110004000 +0100" stop="20191110005500 +0100" channel="M. LaLiga">
+    <title lang="es">Resúmenes LaLiga Santander (T19/20): Barcelona - Celta</title>
+    <sub-title lang="es">Barcelona - Celta</sub-title>
+    <desc lang="es">
+Argumento: El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3780771" />
+  </programme>
+  <programme start="20191110005500 +0100" stop="20191110010500 +0100" channel="M. LaLiga">
+    <title lang="es">Resúmenes LaLiga SmartBank (T19/20): Las Palmas - Alcorcón</title>
+    <sub-title lang="es">Las Palmas - Alcorcón</sub-title>
+    <desc lang="es">
+Argumento: El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3783819" />
+  </programme>
+  <programme start="20191110010500 +0100" stop="20191110025500 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Huesca-Real Oviedo</title>
+    <sub-title lang="es">Huesca-Real Oviedo</sub-title>
+    <desc lang="es">
+Argumento: Partido correspondiente a la décimo quinta jornada de la Liga SmartBank. Equipo con diferentes objetivos se miden en El Alcoraz. El Huesca busca puestos de ascenso directo. Inicia la jornada en cuarta posición, a un punto del segundo puesto. Enfrente un Real Oviedo que la pasada jornada salió del descenso, pero está con los mismos puntos que el primer equipo que descendería 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3781400" />
+  </programme>
+  <programme start="20191110025500 +0100" stop="20191110044500 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Mirandés-Extremadura</title>
+    <sub-title lang="es">Mirandés-Extremadura</sub-title>
+    <desc lang="es">
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3781406" />
+  </programme>
+  <programme start="20191110044500 +0100" stop="20191110063000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Albacete-Lugo</title>
+    <sub-title lang="es">Albacete-Lugo</sub-title>
+    <desc lang="es">
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3781392" />
+  </programme>
+  <programme start="20191110063000 +0100" stop="20191110083000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga SmartBank (T19/20): Sporting-Numancia</title>
+    <sub-title lang="es">Sporting-Numancia</sub-title>
+    <desc lang="es">
+Argumento: La Segunda División es una liga tremendamente igualada. Muchos son los candidatos a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro equipos que disputan las eliminatorias de ascenso. Los cuatro últimos, en cambio, bajan a Segunda B 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3781412" />
+  </programme>
+  <programme start="20191110083000 +0100" stop="20191110120000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Barcelona-Celta</title>
+    <sub-title lang="es">Barcelona-Celta</sub-title>
+    <desc lang="es">☠☠☠☠☠ 
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776431" />
+    <star-rating>
+      <value>☠☠☠☠☠</value>
+    </star-rating>
+  </programme>
+  <programme start="20191110120000 +0100" stop="20191110140000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Mallorca-Villa}</title>
+    <sub-title lang="es">Mallorca-Villarreal</sub-title>
+    <desc lang="es">
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776439" />
+  </programme>
+  <programme start="20191110140000 +0100" stop="20191110143000 +0100" channel="M. LaLiga">
+    <title lang="es">90 años de LaLiga: Jorge Valdano</title>
+    <sub-title lang="es">Jorge Valdano</sub-title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: En 1929 arrancó un campeonato que se convirtió con el tiempo en el mayor entrentenimiento de los aficionados españoles al fútbol. Este espacio cuenta alguna de las historias más destacadas ocurridas en LaLiga a lo largo de sus 90 años de vida 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3767083" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191110143000 +0100" stop="20191110160000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga World (T19/20)</title>
+    <desc lang="es">(+TP) 2019 España 
+Argumento: LaLiga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato 
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <country>España</country>
+    <review type="text">Ratings: TP.</review>
+  </programme>
+  <programme start="20191110160000 +0100" stop="20191110183000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): At. Madrid-Espanyol</title>
+    <sub-title lang="es">At. Madrid-Espanyol</sub-title>
+    <desc lang="es">
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776429" />
+  </programme>
+  <programme start="20191110183000 +0100" stop="20191110210000 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Getafe-Osasuna</title>
+    <sub-title lang="es">Getafe-Osasuna</sub-title>
+    <desc lang="es">
+Argumento: En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776437" />
+  </programme>
+  <programme start="20191110210000 +0100" stop="20191111001500 +0100" channel="M. LaLiga">
+    <title lang="es">LaLiga Santander (T19/20): Betis-Sevilla</title>
+    <sub-title lang="es">Betis-Sevilla</sub-title>
+    <desc lang="es">
+Argumento: La eterna rivalidad entre los equipos hispalenses vive su enésimo capítulo. El Real Betis respira después de empatar en el Bernabéu mientras que el Sevilla aspira a colocarse en lo más alto de la clasificación. Un partido especial e imprevisible 
+Categoría: Deportes, Fútbol español. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3776433" />
+  </programme>
+  <programme start="20191104024500 +0100" stop="20191104060000 +0100" channel="M. LaLiga 1">
+    <title lang="es">M. LaLiga 1</title>
+    <desc lang="es">
+Categoría: Deportes. </desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20191104224500 +0100" stop="20191105080000 +0100" channel="M. LaLiga 1">
+    <title lang="es">M. LaLiga 1</title>
+    <desc lang="es">
+Categoría: Deportes, Sin clasificar. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Sin clasificar</category>
+  </programme>
+  <programme start="20191104220000 +0100" stop="20191105080000 +0100" channel="M. LaLiga 2">
+    <title lang="es">M. LaLiga 2</title>
+    <desc lang="es">
+Categoría: Deportes, Sin clasificar. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Sin clasificar</category>
+  </programme>
+  <programme start="20191104203000 +0100" stop="20191105080000 +0100" channel="M. LaLiga 4">
+    <title lang="es">M. LaLiga 4</title>
+    <desc lang="es">
+Categoría: Deportes, Sin clasificar. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Sin clasificar</category>
+  </programme>
+</tv>
